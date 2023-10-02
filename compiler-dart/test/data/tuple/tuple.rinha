@@ -1,0 +1,2 @@
+let tuple = ("fib", 55);
+print(("fib", 55))

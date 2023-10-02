@@ -1,0 +1,4 @@
+let add = fn () => {
+  1 + 2
+};
+print(add())

@@ -1,0 +1,75 @@
+{
+  "name": "tuple/first.rinha",
+  "expression": {
+    "kind": "Let",
+    "name": {
+      "text": "tuple",
+      "location": {
+        "start": 4,
+        "end": 9,
+        "filename": "tuple/first.rinha"
+      }
+    },
+    "value": {
+      "kind": "Tuple",
+      "first": {
+        "kind": "Str",
+        "value": "fib",
+        "location": {
+          "start": 13,
+          "end": 18,
+          "filename": "tuple/first.rinha"
+        }
+      },
+      "second": {
+        "kind": "Int",
+        "value": 55,
+        "location": {
+          "start": 20,
+          "end": 22,
+          "filename": "tuple/first.rinha"
+        }
+      },
+      "location": {
+        "start": 12,
+        "end": 23,
+        "filename": "tuple/first.rinha"
+      }
+    },
+    "next": {
+      "kind": "Print",
+      "value": {
+        "kind": "First",
+        "value": {
+          "kind": "Var",
+          "text": "tuple",
+          "location": {
+            "start": 37,
+            "end": 42,
+            "filename": "tuple/first.rinha"
+          }
+        },
+        "location": {
+          "start": 31,
+          "end": 43,
+          "filename": "tuple/first.rinha"
+        }
+      },
+      "location": {
+        "start": 25,
+        "end": 44,
+        "filename": "tuple/first.rinha"
+      }
+    },
+    "location": {
+      "start": 0,
+      "end": 44,
+      "filename": "tuple/first.rinha"
+    }
+  },
+  "location": {
+    "start": 0,
+    "end": 44,
+    "filename": "tuple/first.rinha"
+  }
+}

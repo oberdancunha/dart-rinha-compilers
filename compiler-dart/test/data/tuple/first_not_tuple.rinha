@@ -1,0 +1,2 @@
+let notTuple = 55;
+print(first(notTuple))

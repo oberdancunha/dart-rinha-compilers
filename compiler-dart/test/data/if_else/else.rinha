@@ -1,0 +1,5 @@
+print(if (false) {
+  "verdade"
+} else {
+  "falso"
+})

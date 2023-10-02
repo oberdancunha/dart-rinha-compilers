@@ -1,0 +1,5 @@
+let c = 3;
+let add = fn () => {
+  1 + 2 + c
+};
+print(add())
